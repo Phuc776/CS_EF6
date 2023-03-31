@@ -1,0 +1,12 @@
+E:\phuc do\source\repos\Test_EF6\bin\Debug\Test_EF6.exe.config
+E:\phuc do\source\repos\Test_EF6\bin\Debug\Test_EF6.exe
+E:\phuc do\source\repos\Test_EF6\bin\Debug\Test_EF6.pdb
+E:\phuc do\source\repos\Test_EF6\bin\Debug\EntityFramework.dll
+E:\phuc do\source\repos\Test_EF6\bin\Debug\EntityFramework.SqlServer.dll
+E:\phuc do\source\repos\Test_EF6\bin\Debug\EntityFramework.xml
+E:\phuc do\source\repos\Test_EF6\bin\Debug\EntityFramework.SqlServer.xml
+E:\phuc do\source\repos\Test_EF6\obj\Debug\Test_EF6.csproj.AssemblyReference.cache
+E:\phuc do\source\repos\Test_EF6\obj\Debug\Test_EF6.csproj.CoreCompileInputs.cache
+E:\phuc do\source\repos\Test_EF6\obj\Debug\Test_EF6.csproj.CopyComplete
+E:\phuc do\source\repos\Test_EF6\obj\Debug\Test_EF6.exe
+E:\phuc do\source\repos\Test_EF6\obj\Debug\Test_EF6.pdb
